@@ -28,3 +28,6 @@
 
 6.Napomena da smo kolega i ja radili sve zajedno,održali bi zajedno video poziv preko Google Meet gde bi smo zajedno radili i pričali kako da uradimo dati projekat.
 
+    Takođe napomena da sam ja bio vođa ovog projekta i da sam predavao kod Vas na predavanjima.
+    
+
